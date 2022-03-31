@@ -1,0 +1,8 @@
+.container1{
+    max-width: 400px;
+    min-height: 500px;
+}
+.addButton:hover
+{
+    background-color: rgb(77, 77, 77) !important;
+}
